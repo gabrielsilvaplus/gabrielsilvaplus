@@ -1,60 +1,47 @@
-## Hi there 👋
-
-<!--
-**gabrielsilvaplus/gabrielsilvaplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-  <h1>Olá, eu sou <a href="https://github.com/SEU_USUARIO">@SEU_USUARIO</a></h1>
+  
+  # Gabriel Pereira
+  
+  **Full Stack Developer · AWS Certified · Building for Scale**
+
   <p>
-    <samp>
-      Building minimal & performant interfaces.
-      <br>
-      <b>Frontend Engineer</b> @ YourCompany
-    </samp>
+    <a href="https://www.linkedin.com/in/gabrielpereiraplus/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:SEU_EMAIL@GMAIL.COM">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
   </p>
   
-  <br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,figma,git&theme=dark&perline=15" />
-  </a>
 </div>
 
-<br>
-<br>
+---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&count_private=true" alt="Stats" height="180"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" alt="Langs" height="180"/>
-    </td>
-  </tr>
-</table>
+### Sobre
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&ring_color=ffffff&fire_color=ffffff&currStreakLabel=ffffff" alt="Streak" />
-</div>
+Desenvolvedor Full Stack com foco em **aplicações web de alta performance e arquitetura escalável**. Certificado AWS Cloud Practitioner. Experiência prática cobrindo todo o ciclo de vida do software, do design de APIs à entrega em produção.
 
-<br>
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/Connect-Linear_Style-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+### Stack Principal
+
+| Backend | Frontend | Cloud & Data |
+| :---: | :---: | :---: |
+| Java · Spring Boot | React · Next.js | AWS (Lambda, S3, Glue) |
+| Node.js · Express | TypeScript | Docker · Linux |
+| PostgreSQL · Kafka | Tailwind CSS | Python · ETL Pipelines |
+
+---
+
+### Atividade
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsilvaplus&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvaplus&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=6" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Focado em entregar software robusto, testável e pronto para produção.</sub>
+</p>
